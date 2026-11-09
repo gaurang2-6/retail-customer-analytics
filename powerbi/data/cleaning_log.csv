@@ -1,0 +1,7 @@
+step,n_rows
+raw rows,1067371
+after removing exact duplicates,1033036
+same-day reversed order lines removed,1382
+"sales lines (products, qty > 0, price > 0)",1001935
+sales lines with a customer id,775299
+return lines,16689
